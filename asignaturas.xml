@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<asignaturas>
+  <asignatura>
+    <nombre>Acceso a datos</nombre>
+    <horas>120</horas>
+    <profesor>
+    	<nombre>Juanmi</nombre>
+    	<despacho>D.1.5</despacho>
+    </profesor>   
+  </asignatura>
+  <asignatura>
+  	<nombre>Programación multimedia</nombre>
+    <horas>100</horas>
+    <profesor>
+    	<nombre>Manel</nombre>
+    	<despacho>D.1.5</despacho>
+    </profesor>  
+  </asignatura>
+  <asignatura>
+  	<nombre>Disenyo de interfaces</nombre>
+    <horas>120</horas>
+    <profesor>
+    	<nombre>Tomás</nombre>
+    	
+    </profesor>  
+  </asignatura>  
+</asignaturas>
